@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441280134162",
+    "project_id": "fir-mastery-db6c2",
+    "storage_bucket": "fir-mastery-db6c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441280134162:android:8ae75df3cae4cd33602ccb",
+        "android_client_info": {
+          "package_name": "com.example.firebasemastery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyR8ybJV10JpDj52Qz-_y8ZbLUuPm72Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
